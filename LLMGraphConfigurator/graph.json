@@ -1,0 +1,39 @@
+{
+  "nodes": [
+    {
+      "id": 1,
+      "type": "input",
+      "x": 113,
+      "y": 193,
+      "content": []
+    },
+    {
+      "id": 2,
+      "type": "query",
+      "x": 294,
+      "y": 192,
+      "content": [
+        "Answer short witty and concisely on the following user question 1 or 2 sentences:"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "output",
+      "x": 485,
+      "y": 191,
+      "content": []
+    }
+  ],
+  "connections": [
+    {
+      "from": 1,
+      "to": 2,
+      "output_type": "output"
+    },
+    {
+      "from": 2,
+      "to": 3,
+      "output_type": "output"
+    }
+  ]
+}
