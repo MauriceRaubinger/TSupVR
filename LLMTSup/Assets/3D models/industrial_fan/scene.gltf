@@ -1,0 +1,442 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1056,
+      "max": [
+        1.4838199615478516,
+        1.3974599838256836,
+        0.6781100034713745
+      ],
+      "min": [
+        -1.4840600490570068,
+        -1.4025399684906006,
+        0.0038300000596791506
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 12672,
+      "componentType": 5126,
+      "count": 1056,
+      "max": [
+        0.9960265755653381,
+        0.996064305305481,
+        1.0
+      ],
+      "min": [
+        -0.9960730671882629,
+        -0.9960319399833679,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1056,
+      "max": [
+        1.0,
+        0.9999996423721313,
+        0.9958890676498413,
+        1.0
+      ],
+      "min": [
+        -0.999910295009613,
+        -0.9915112853050232,
+        -0.9958819150924683,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1056,
+      "max": [
+        0.9981300234794617,
+        0.9940000176429749
+      ],
+      "min": [
+        0.016920000314712524,
+        0.003449999960139394
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 8448,
+      "componentType": 5126,
+      "count": 1056,
+      "max": [
+        0.9981300234794617,
+        0.9940000176429749
+      ],
+      "min": [
+        0.016920000314712524,
+        0.003449999960139394
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 16896,
+      "componentType": 5126,
+      "count": 1056,
+      "max": [
+        0.9981300234794617,
+        0.9940000176429749
+      ],
+      "min": [
+        0.016920000314712524,
+        0.003449999960139394
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 25344,
+      "componentType": 5126,
+      "count": 1056,
+      "max": [
+        0.9981300234794617,
+        0.9940000176429749
+      ],
+      "min": [
+        0.016920000314712524,
+        0.003449999960139394
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 3063,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 25344,
+      "componentType": 5126,
+      "count": 68,
+      "max": [
+        0.8365200161933899,
+        0.8605899810791016,
+        0.4320800006389618
+      ],
+      "min": [
+        -0.7740100026130676,
+        -0.8312600255012512,
+        0.02896999940276146
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 26160,
+      "componentType": 5126,
+      "count": 68,
+      "max": [
+        0.9999975562095642,
+        0.9999976754188538,
+        0.9839004278182983
+      ],
+      "min": [
+        -0.9999975562095642,
+        -0.9999976754188538,
+        -0.01688053086400032
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 16896,
+      "componentType": 5126,
+      "count": 68,
+      "max": [
+        0.9999976754188538,
+        0.9999974370002747,
+        0.01309157907962799,
+        1.0
+      ],
+      "min": [
+        -0.9999974966049194,
+        -0.9999976754188538,
+        -0.8274024724960327,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 33792,
+      "componentType": 5126,
+      "count": 68,
+      "max": [
+        0.7028399705886841,
+        0.9971200227737427
+      ],
+      "min": [
+        0.004029999952763319,
+        0.7908899784088135
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 34336,
+      "componentType": 5126,
+      "count": 68,
+      "max": [
+        0.7028399705886841,
+        0.9971200227737427
+      ],
+      "min": [
+        0.004029999952763319,
+        0.7908899784088135
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 34880,
+      "componentType": 5126,
+      "count": 68,
+      "max": [
+        0.7028399705886841,
+        0.9971200227737427
+      ],
+      "min": [
+        0.004029999952763319,
+        0.7908899784088135
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 35424,
+      "componentType": 5126,
+      "count": 68,
+      "max": [
+        0.7028399705886841,
+        0.9971200227737427
+      ],
+      "min": [
+        0.004029999952763319,
+        0.7908899784088135
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12252,
+      "componentType": 5125,
+      "count": 180,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "3DHaupt (https://sketchfab.com/dennish2010)",
+      "license": "CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)",
+      "source": "https://sketchfab.com/3d-models/industrial-fan-50c332c704d74df0a6937fa5c34c0a54",
+      "title": "Industrial Fan"
+    },
+    "generator": "Sketchfab-12.65.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 12972,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 35968,
+      "byteOffset": 12972,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 26976,
+      "byteOffset": 48940,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 17984,
+      "byteOffset": 75916,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 93900,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/material_baseColor.png"
+    },
+    {
+      "uri": "textures/material_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/material_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "material",
+      "normalTexture": {
+        "index": 2
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.8607660139569585,
+        "metallicRoughnessTexture": {
+          "index": 1
+        },
+        "roughnessFactor": 0.3099581161
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Fan_for_walls_Box_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4,
+            "TEXCOORD_2": 5,
+            "TEXCOORD_3": 6
+          },
+          "indices": 7,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Fan_for_walls_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TANGENT": 10,
+            "TEXCOORD_0": 11,
+            "TEXCOORD_1": 12,
+            "TEXCOORD_2": 13,
+            "TEXCOORD_3": 14
+          },
+          "indices": 15,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "Root"
+    },
+    {
+      "children": [
+        3,
+        4
+      ],
+      "name": "Fan_for_walls_Box"
+    },
+    {
+      "mesh": 0,
+      "name": "Fan_for_walls_Box_0"
+    },
+    {
+      "children": [
+        5
+      ],
+      "name": "Fan_for_walls"
+    },
+    {
+      "mesh": 1,
+      "name": "Fan_for_walls_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
