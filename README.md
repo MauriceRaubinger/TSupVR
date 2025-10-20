@@ -58,3 +58,5 @@ For End-Users
   -Point at or interact with waypoints on the 3D model to ask contextual questions.
 
   -Use voice commands (as defined in the workflow graph) to manipulate the environment, e.g., "Lift the engine."
+
+  A link to an example video: https://drive.google.com/file/d/1uqTLzUAn7ajoz-idCTF46O_Q0awQBOPR/view?usp=sharing
