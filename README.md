@@ -42,7 +42,7 @@ For Authors/Developers (Configuration)
 
   -Load a 3D Model: Import your 3D model into the Unity environment and set the waypoint prefabs across its components.
 
-  -Prepare Documentation: Write your documentation in the  machinedocs.txt files with the technical information for your model.
+  -Prepare Documentation: Write your documentation in the  Machine_Docs.txt files with the technical information for your model.
 
   -Create a Workflow Graph: Use the LLM Graph Creator to design the agent's logic. Define how it should classify user       intent, when to retrieve from documentation, and how to handle commands. Save the graph as a JSON file.
 
