@@ -16,7 +16,7 @@ Prerequisites
 
   -A Meta Quest 3 headset with developer mode enabled.
 
-  -API keys for Google Gemini and Wit.ai.
+  -API keys for Google Gemini, LangChain and Wit.ai.
 
 Setup the VR Front-End:
 
